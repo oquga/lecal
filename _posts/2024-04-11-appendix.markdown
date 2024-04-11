@@ -1,0 +1,31 @@
+---
+layout: post
+date: 2024-04-04 12:00:00 +0200
+title: "Appendix"
+---
+
+# Additional Resources and Documentation
+
+- [Google Calendar API Documentation](https://developers.google.com/calendar/api/guides/overview)
+- [PayPal REST API Documentation](https://developer.paypal.com/api/rest/)
+- [Binance Pay API Documentation](https://developers.binance.com/docs/binance-pay/introduction)
+- [Google Calendar API Quickstart Guide](https://developers.google.com/calendar/api/quickstart)
+- [PayPal Developer Portal](https://developer.paypal.com/)
+- [Binance Developer Portal](https://developers.binance.com/)
+
+# Useful Tools for Developers
+
+- [Postman](https://www.postman.com/): API development and testing tool.
+- [ngrok](https://ngrok.com/): Secure tunneling tool for exposing local servers to the internet.
+- [Visual Studio Code](https://code.visualstudio.com/): Lightweight code editor with rich features and extensions.
+- [RubyGems](https://rubygems.org/): Repository for Ruby gems, including libraries for API integrations.
+
+# Glossary
+
+- **API**: Application Programming Interface. A set of rules and protocols that allow different software applications to communicate with each other.
+- **OAuth**: Open Authorization. An open-standard authorization protocol that enables secure authorization in a simple and standard method for APIs.
+- **Gem**: A Ruby package or library that contains reusable code and functionality.
+- **Sandbox Environment**: A testing environment that replicates the behavior of a production environment without affecting actual production data or processes.
+
+
+
